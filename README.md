@@ -49,7 +49,7 @@ El enfoque del proyecto incluye las siguientes etapas:
 
 ## Fuentes de datos
 
-- [Dataset de los Juegos Olímpicos de París 2024 en Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
+- [Dataset de los Juegos Olímpicos de París 2024 - Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
 - [Global Gender Gap Index 2024 - Statista](https://www.statista.com/statistics/244387/the-global-gender-gap-index/)
 
 ## Enlaces importantes
