@@ -12,7 +12,7 @@ El enfoque del proyecto incluye las siguientes etapas:
 
 1. **Recolección de datos**: 
    - Los datos principales se extraen del [dataset de Kaggle](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games) que incluye información sobre atletas, disciplinas, países, medallas y otros aspectos clave de los Juegos Olímpicos de París 2024.
-   - Haremos una comparación con los indicadores de igualdad de género para el análisis de correlación entre los países del [Global Gender Gap Index 2024 - Statista](https://www.statista.com/statistics/244387/the-global-gender-gap-index/)
+   - Haremos una comparación con los indicadores de igualdad de género para el análisis de correlación entre los países del [Global Gender Gap Index 2024](https://www.statista.com/statistics/244387/the-global-gender-gap-index/)
    
 2. **Limpieza de datos**: 
    - El dataset será revisado para corregir errores, manejar valores faltantes y asegurarse de que las variables relevantes, como el género de los atletas, estén claramente etiquetadas y estructuradas para su análisis.
