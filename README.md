@@ -61,7 +61,7 @@ El enfoque del proyecto incluye las siguientes etapas:
 [Planificación](https://trello.com/b/cVenGouQ/deporte-y-g%C3%A9nero)
 
 ### Dashboard en Tableau
-[Igualdad de género en los Juegos Olímpicos de París 2024](https://prod-uk-a.online.tableau.com/t/contacto-acc783cdb6/authoring/IgualdaddegneroenlosJuegosOlmpicosdePars2024/Sheet1/Dashboard%201#1)
+[Igualdad de género en los Juegos Olímpicos de París 2024](https://prod-uk-a.online.tableau.com/#/site/contacto-acc783cdb6/workbooks/1326889?:origin=card_share_link)
 
 ### Enlace a la presentación
 [Presentación del proyecto](https://www.canva.com/design/DAGRNRI0TpI/n6jars_kmC41z4uvsoWBZg/view?utm_content=DAGRNRI0TpI&utm_campaign=designshare&utm_medium=link&utm_source=editor)
